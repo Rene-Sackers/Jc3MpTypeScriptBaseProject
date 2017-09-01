@@ -1,0 +1,4 @@
+.vs/
+node_modules/
+client_package/**/*.js
+server_package/**/*.js

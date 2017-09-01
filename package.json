@@ -1,0 +1,13 @@
+{
+  "name": "base-ts",
+  "version": "1.0.0",
+  "author": "Eraknelo",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "jcmp_dependencies": [
+    "chat",
+    "command-manager"
+  ]
+}

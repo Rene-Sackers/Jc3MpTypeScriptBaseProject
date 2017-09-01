@@ -1,0 +1,11 @@
+{
+    "name": "base-ts",
+    "version": "1.0.0",
+    "author": "Eraknelo",
+    "license": "MIT",
+    "main": "ClientMain.js",
+    "dependencies": {
+      "types-jcmp": "*"
+    }
+  }
+  
